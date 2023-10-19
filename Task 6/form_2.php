@@ -19,8 +19,29 @@
     <td><font size="+2">Last name:</font></td>
     <td><input type="text" name="lastName"></td>
   </tr>
+  <tr> 
+    <td><font size="+2">Gender:</font></td>
+    <td><input type="radio" name="gender" value="male">
+  <label for="html">Male</label>
+  <input type="radio" name="gender" value="female">
+  <label >Female</label><br></td>
+  </tr>
+  <tr> 
+    <td><font size="+2">Email:</font></td>
+    <td><input type="text" name="email"></td>
+  </tr>
+  <tr> 
+    <td><font size="+2">Birth of date:</font></td>
+    <td><input type="date" name="date" style="height: 30px;"></td>
+  </tr>
+  <tr> 
+    <td><font size="+2">Address:</font></td>
+  </tr>
+  <tr> 
+  <td> <input type="text" name="password" style=" height: 70px;;"><br></td>
+  </tr>
 </table>
-
+<button>Submit</button>
 
 </fieldset>
 </html>

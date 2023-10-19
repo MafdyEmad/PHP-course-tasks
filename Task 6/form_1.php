@@ -38,11 +38,11 @@
     <input type="radio" name="role" value="admin">
   <label for="html">Admin</label><br>
   <input type="radio" name="role value="engineer">
-  <label for="css">Engineer</label><br>
+  <label for="engineer">Engineer</label><br>
   <input type="radio" name="role value="manager">
-  <label for="javascript">Manager</label><br>
+  <label for="manager">Manager</label><br>
   <input type="radio" name="role value="gest">
-  <label for="javascript">Gest</label><br>
+  <label for="gest">Gest</label><br>
     </td>
   </tr>
   </tr>
@@ -51,11 +51,11 @@
      <td>Sign in to the following</td>
     <td>
     <input type="checkbox" name="type1" value="mail">
-  <label for="html">Mail</label><br>
+  <label for="mail">Mail</label><br>
   <input type="checkbox" name="type2" value="payroll">
-  <label for="css">Payroll</label><br>
+  <label for="payroll">Payroll</label><br>
   <input type="checkbox" name="type3" value="self-service">
-  <label for="javascript">Self-service</label><br>
+  <label for="service">Self-service</label><br>
     </td>
   
 </table>

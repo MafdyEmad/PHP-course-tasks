@@ -20,14 +20,6 @@ foreach($users_data as $user) {
   break;
 }
 
-// foreach($users_data as $user) {
-//   if($user['username'] == $name && $user['pass'] == $pass) {
-//       echo "data is correct";
-//       break;
-//   }
-//   echo "data is not correct";
-//   break;
-// }
 ?>
 
 <!DOCTYPE html>
